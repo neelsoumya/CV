@@ -187,7 +187,7 @@ I have coauthored `r length(rjhpkgs)` R packages as a result of my research. The
 # Selected books
 
 ```{r books}
-bibliography_entries("rjhpubs.bib") %>%
+bibliography_entries("all_my_papers_ref.bib") %>%
   filter(id %in% c("fpp2","MWH3","expsmooth08")) %>%
   arrange(issued, author$family)
 ```
@@ -224,7 +224,7 @@ if(file.exists("gspapers.rds")) {
 
 ```{r bibfile, include=FALSE, dependson='GScholar'}
 # Read bib file
-rjhpubs <- ReadBib("rjhpubs.bib", check = "error")
+rjhpubs <- ReadBib("all_my_papers_ref.bib", check = "error")
 
 # Join two tables using fuzzy matching on titles
 rjhtbl <- rjhpubs %>%
