@@ -57,7 +57,7 @@ write_packages_bib(rjhpkgs, file="Rpackages.bib")
 
 ```{r bibfiles}
 # Read any bib files
-pubs <- bibliography_entries("rjhpubs.bib")
+pubs <- bibliography_entries("all_my_papers_ref.bib")
 reports <- bibliography_entries("rjhreports.bib")
 packages <- bibliography_entries("Rpackages.bib")
 ```
