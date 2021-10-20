@@ -1,6 +1,8 @@
 
 CV and other materials for Soumya Banerjee
 
+* https://resume.github.io/?neelsoumya
+
 * See vitae package
 
   * https://pkg.mitchelloharawild.com/vitae/articles/vitae.html
