@@ -11,3 +11,8 @@ I have worked in the experimental sciences, clinical, financial and healthcare d
     📫 How to reach me and get more information on my work
 
     https://sites.google.com/site/neelsoumya
+
+
+Bio:
+
+Soumya Banerjee is a Senior Research Fellow at the University of Cambridge. He worked in industry for many years before completing a PhD in applying computational techniques to interdisciplinary topics. Over the last 18 years, he has worked closely with domain experts in finance, healthcare, immunology, virology, and cell biology. He has recently worked closely with clinicians and patients on using patient and public involvement to build trust in AI algorithms.
