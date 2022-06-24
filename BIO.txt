@@ -1,0 +1,28 @@
+Soumya Banerjee is a researcher in ethical artificial intelligence applied to complex systems. He applies artificial intelligence techniques to solve human problems. He is also very passionate about outreach, science communication and policy for using science for social good.
+
+
+My research uses data science for social good and answer questions about complex systems. 
+Complex systems are all around us, from social networks to transportation systems, cities, economies and financial markets. 
+
+I use data science to derive insights into diverse complex systems ranging from socio-economic systems to biological systems like the immune system. 
+I am very passionate about citizen driven data science for social good. 
+
+I have used data to help highlight social inequalities and help guide development of impoverished nations (https://link.springer.com/chapter/10.1007/978-3-319-45901-1_7). 
+I have also used machine learning techniques to investigate outbreaks of emerging infectious diseases like West Nile virus (https://royalsocietypublishing.org/doi/full/10.1098/rsif.2017.0479). 
+
+Data science has the potential to change human life and the complex systems that surround us: from social networks to transportation systems, cities, economies and financial markets. Using data science to understand these complex systems, may lead to solutions for problems ranging from famines, global crises, poverty, climate change and sustainable living despite over-population.
+
+
+
+
+
+
+Soumya Banerjee has a PhD in Computer Science. He analyzes complex problems and implements new statistical and machine learning techniques for deriving insights from large amounts of data. He works closely with people from other domains.
+
+His research uses analytics and data science to answer questions about complex systems. He studies immune systems, ant colonies, gut microbes, intra-cellular signaling networks and human societies. 
+
+Complex systems are all around us: from social networks to transportation systems, cities, economies and financial markets. Understanding these complex systems may lead to solutions for problems ranging from famines, global crises, poverty, climate change and sustainable living despite over-population. 
+
+
+
+Soumya Banerjee is a Senior Research Fellow at the University of Cambridge. He worked in industry for many years before completing a PhD in applying computational techniques to interdisciplinary topics. Over the last 18 years, he has worked closely with domain experts in finance, healthcare, immunology, virology, and cell biology. He has recently worked closely with clinicians and patients on using patient and public involvement to build trust in AI algorithms.
