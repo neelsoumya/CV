@@ -1,0 +1,510 @@
+I am giving you the selection criterion for a role. give me short responses to each of the selection criterion. A short version of my CV and some previous responses to selection criterion is here: # Soumya Banerjee
+
+**Email:** neel.soumya@gmail.com  
+**Website:** [https://sites.google.com/site/neelsoumya/](https://sites.google.com/site/neelsoumya/)
+
+---
+
+## Education
+
+- **PhD in Computer Science**, University of New Mexico, USA, 2013  
+- **Bachelor of Engineering (Computer Science) with Distinction**, Nagpur University, India, 2003  
+
+---
+
+## Recent Employment
+
+### Senior Research Fellow and Affiliated Lecturer  
+**University of Cambridge, UK** (2022–Present)  
+- Develop explainable AI techniques and apply them to domains like healthcare.  
+- Teach AI courses and supervise student projects.
+
+### Postdoctoral Researcher  
+**University of Cambridge, UK** (2019–2022)  
+- Applied ML and data science to electronic healthcare records to stratify patients and predict mortality.  
+- Published in *Nature Partner Journal Schizophrenia*.
+
+### Postdoctoral Researcher  
+**University of Oxford, UK** (2016–2018)  
+- Modeled negative selection in the immune system via multi-scale simulations.  
+- Published in *Journal of the Royal Society Interface*.
+
+### Researcher  
+**CSIRO, Australia** (2015–2016)  
+- Modeled socio-economic systems combining open data with ML.  
+- Analyzed UCI crime dataset; published in *Palgrave Communications*.
+
+### Postdoctoral Research Fellow  
+**Harvard Medical School & Broad Institute of Harvard and MIT, USA** (2014–2015)  
+- Investigated immune–microbiome interactions in IBD using computational predictions.  
+- Implemented in Python, MATLAB, Shell; identified key microbial compounds.
+
+### Postdoctoral Research Fellow  
+**Max Planck Institute for Molecular Physiology, Germany** (2013–2014)  
+- Studied Rho GTPase interactions and cell motility via non-linear ODEs and hierarchical Bayesian models.  
+- Automated image analysis with CellProfiler & ImageJ; published in *Angewandte Chemie* & *Journal of Cell Biology*.
+
+### Research Intern / PhD Research  
+**Los Alamos National Laboratories, USA** (2009–2012)  
+- Modeled emerging pathogens using ODEs and hierarchical Bayesian inference.  
+- Thesis work published in *Journal of the Royal Society Interface*; presented internationally.
+
+### Research Assistant  
+**University of New Mexico, USA** (2007–2013)  
+- Computational immunology: immune-inspired architectures for distributed systems.  
+- Published in *Swarm Intelligence* and multiple conferences.
+
+### Senior Software Engineer & Technical Lead  
+**Cognizant Technology Solutions Ltd., India** (2004–2007)  
+- Led financial-services projects using C/C++, UNIX, Sybase, ASP.NET, MS SQL.
+
+### Software Engineer  
+**Automation Engineers, India** (2003–2004)  
+
+---
+
+## Teaching Experience
+
+- Fellow of the Higher Education Academy (Advance HE).  
+- Teach ML, data science, reproducibility, and visualization at University of Cambridge & Oxford.  
+- Developed special topics course **“Unconventional Approaches to AI”** ([GitHub](https://github.com/neelsoumya/special_topics_unconventional_AI)).  
+- Developed and taught reproducible research in R ([GitHub](https://github.com/neelsoumya/teaching_reproducible_science_R)).  
+- Teaching materials: [visualization lectures](https://github.com/neelsoumya/visualization_lecture) & [site](https://sites.google.com/site/neelsoumya/teaching).  
+- Selected teaching highlights:
+  1. Cambridge‑Africa Programme lectures (2020)  
+  2. Oxford Complex Networks Summer School (2017)  
+  3. Doctoral Training Centre teaching training (2017)  
+  4. Complex Adaptive Systems course, UNM (2009–2012)  
+
+---
+
+## Publications
+
+**Note:** In Computer Science, conferences are peer‑reviewed.
+
+### Key Publications  
+1. Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies, S. Banerjee, P. Alsop, L. Jones, R. Cardinal, *Patterns*, 3(6):100506, 2022 (Cell Press) :contentReference[oaicite:0]{index=0}  
+2. A class‑contrastive human‑interpretable machine learning approach to predict mortality in severe mental illness, S. Banerjee, P. Lio, P. Jones, R. Cardinal, *Nature Partner Journal Schizophrenia*, 7:60, 2021 (Nature) :contentReference[oaicite:1]{index=1}  
+3. Deconvolution of monocyte responses in inflammatory bowel disease reveals an IL‑1 cytokine network that regulates IL‑23 in genetic and acquired IL‑10 resistance, D. Aschenbrenner, M. Quaranta, S. Banerjee, *Gut*, 2020 (BMJ) :contentReference[oaicite:2]{index=2}  
+4. Hydroxychloroquine: balancing the needs of LMICs during the COVID‑19 pandemic, S. Banerjee, *Lancet Rheumatology*, 2(7):385–386, 2020 (Lancet) :contentReference[oaicite:3]{index=3}  
+5. Influence of correlated antigen presentation on T cell negative selection in the thymus, S. Banerjee, S.J. Chapman, *Journal of the Royal Society Interface*, 15(148):20180311, 2018 (Royal Society) :contentReference[oaicite:4]{index=4}  
+
+## Publications
+
+### Key Publications  
+1. Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies, S. Banerjee, P. Alsop, L. Jones, R. Cardinal, *Patterns*, 3(6):100506, 2022 :contentReference[oaicite:0]{index=0}  
+2. A class‑contrastive human‑interpretable machine learning approach to predict mortality in severe mental illness, S. Banerjee, P. Lio, P. Jones, R. Cardinal, *Nature Partner Journal Schizophrenia*, 7, 60, 2021 :contentReference[oaicite:1]{index=1}  
+3. Deconvolution of monocyte responses in inflammatory bowel disease reveals an IL‑1 cytokine network that regulates IL‑23 in genetic and acquired IL‑10 resistance, D. Aschenbrenner, M. Quaranta, S. Banerjee, *Gut*, 2020 :contentReference[oaicite:2]{index=2}  
+4. Hydroxychloroquine: balancing the needs of LMICs during the COVID‑19 pandemic, S. Banerjee, *Lancet Rheumatology*, 2(7):385–386, 2020 :contentReference[oaicite:3]{index=3}  
+5. Influence of correlated antigen presentation on T cell negative selection in the thymus, S. Banerjee, S.J. Chapman, *Journal of the Royal Society Interface*, 15(148):20180311, 2018 :contentReference[oaicite:4]{index=4}  
+
+### Refereed Journal Papers  
+1. DataSHIELD: Mitigating disclosure risk in a multi‑site federated analysis platform, D. Avraam, R. Wilson, N. Chan, S. Banerjee *et al.*, *Bioinformatics Advances*, vbaf046, 2025 :contentReference[oaicite:5]{index=5}  
+2. Neural networks for abstraction and reasoning, M. Bober‑Irizar, S. Banerjee, *Scientific Reports*, 14:27823, 2024 :contentReference[oaicite:6]{index=6}  
+3. Generating complex explanations for artificial intelligence models: an application to clinical data on severe mental illness, S. Banerjee, *Life*, 14(7):807, 2024 :contentReference[oaicite:7]{index=7}  
+4. Intelligence in animals, humans and machines: a heliocentric view of intelligence?, H. Holm, S. Banerjee, *AI & Society*, 2024 :contentReference[oaicite:8]{index=8}  
+5. Involving patients in artificial intelligence research to build trustworthy systems, S. Banerjee, S. Griffiths, *AI & Society*, 2023 :contentReference[oaicite:9]{index=9}  
+6. dsSurvival 2.0: Privacy enhancing survival curves for survival models in the federated DataSHIELD analysis system, S. Banerjee, T. Bishop, *BMC Research Notes*, 16:98, 2023 :contentReference[oaicite:10]{index=10}  
+7. Software Application Profile: ShinyDataSHIELD—an R Shiny application to perform federated non‑disclosive data analysis in multicohort studies, X. Escribà‑Montagut, Y. Marcon, D. Avraam, S. Banerjee *et al.*, *International Journal of Epidemiology*, dyac201, 2022 :contentReference[oaicite:11]{index=11}  
+8. dsSynthetic: Synthetic data generation for the DataSHIELD federated analysis system, S. Banerjee, *BMC Research Notes*, 15(1):230, 2022 :contentReference[oaicite:12]{index=12}  
+9. dsSurvival: Privacy preserving survival models for federated meta‑analysis of clinical data, S. Banerjee *et al.*, *BMC Research Notes*, 15(1):197, 2022 :contentReference[oaicite:13]{index=13}  
+10. Optogenetic tuning reveals Rho amplification‑dependent dynamics of a cell contraction signal network, D. Kamps, J. Koch, V. Juma, E. Campillo, M. Graessl, S. Banerjee, T. Mazel, X. Chen, Y. Wu, S. Portet, A. Madzvamuse, P. Nalbant, L. Dehmelt, *Cell Reports*, 33(9):108467, 2020 :contentReference[oaicite:14]{index=14}  
+11. The early impact of COVID‑19 on mental health and community physical health services and their patients’ mortality in Cambridgeshire and Peterborough, UK, S. Chen, P. Jones, B. Underwood, A. Moore, E. Bullmore, S. Banerjee *et al.*, *Journal of Psychiatric Research*, 131:244–254, 2020 :contentReference[oaicite:15]{index=15}  
+12. Predictive metabolomic profiling of microbial communities using amplicon or metagenomic sequences, H. Mallick, E. Franzosa, L. McIver, S. Banerjee, A. Sirota-Madi, A. Kostic, C. Clish, H. Vlamakis, R. Xavier, C. Huttenhower, *Nature Communications*, 10(1):3136, 2019 :contentReference[oaicite:16]{index=16}  
+13. Modelling the effects of phylogeny and body size on within‑host pathogen replication and immune response, S. Banerjee, A. Perelson, M. Moses, *Journal of the Royal Society Interface*, 14(136):20170479, 2017 :contentReference[oaicite:17]{index=17}  
+14. An excitable Rho GTPase signaling network generates dynamic subcellular contraction patterns, M. Graessl, J. Koch, A. Calderon, S. Banerjee *et al.*, *Journal of Cell Biology*, 216(12):4271–4285, 2017 :contentReference[oaicite:18]{index=18}  
+15. Towards a quantitative understanding of within‑host dynamics of West Nile virus infection, S. Banerjee, J. Guedj, R. Ribeiro, M. Moses, A. Perelson, *Journal of the Royal Society Interface*, 13(117):20160130, 2016 :contentReference[oaicite:19]{index=19}  
+16. A spatial model of the efficiency of T cell search in the influenza‑infected lung, D. Levin, S. Forrest, S. Banerjee, M. Moses, F. Koster, *Journal of Theoretical Biology*, 398:52–63, 2016 :contentReference[oaicite:20]{index=20}  
+17. Competitive dynamics between criminals and law enforcement explains the super‑linear scaling of crime in societies, S. Banerjee, P.V. Hentenryck, M. Cebrian, *Palgrave Communications*, 1:15022, 2015 :contentReference[oaicite:21]{index=21}  
+18. A bioorthogonal small‑molecule switch system for controlling protein function in cells, P. Liu, A. Calderon, G. Konstantinidis, J. Hou, S. Voss, X. Chen, F. Li, S. Banerjee *et al.*, *Angewandte Chemie*, 53(38):10049–10055, 2014 :contentReference[oaicite:22]{index=22}  
+19. Science and technology consortia in US biomedical research: a paradigm shift in response to unsustainable academic growth, C. Balch, H. Arias‑Pulido, S. Banerjee *et al.*, *BioEssays*, 37(2):119–122, 2014 :contentReference[oaicite:23]{index=23}  
+20. Scale invariance of immune system response rates and times: perspectives on immune system architecture and implications for artificial immune systems, S. Banerjee, M. Moses, *Swarm Intelligence*, 4(4):301–308, 2010 :contentReference[oaicite:24]{index=24}  
+
+### Refereed Workshop Papers  
+1. Bridging the Gap with Retrieval‑Augmented Generation: Making Prosthetic Device User Manuals Available in Marginalised Languages, O. Ikechukwu, L. Davidson, S. Banerjee *et al.*, Data Science Africa 2025 Workshop, 2025  
+2. Prime Directives for Responsible AI for Africa: A Manifesto for Inclusive Technology, S. Banerjee, V. Harthikote Nagaraja, I. Nyalala, N.P. Bhatt, Data Science Africa 2025 Workshop, 2025  
+3. Understanding Intelligence Across Humans, Machines, and Animals, S. Banerjee, Workshop on Exploring Interdisciplinary Frontiers: Cognitive Science, Computational Modeling, and AI, 2025  
+4. Towards a theory of life‑like systems, S. Banerjee, IEEE Symposium on CI in Artificial Life and Cooperative Intelligent Systems (Late Breaking Abstract), Trondheim, 2025  
+5. Augmenting human intelligence on abstraction and reasoning tasks: a path synergistic AI‑human interaction for the Abstraction and Reasoning Corpus, S. Banerjee, IEEE Symposium on CI in Artificial Life and Cooperative Intelligent Systems (Late Breaking Abstract), Trondheim, 2025 :contentReference[oaicite:6]{index=6}  
+
+### Refereed Conference Papers  
+1. Evaluating Machine Learning Models for Prediction of Attention Deficit Hyperactivity Disorder among Autistic Individuals Using Genetic Data, World Congress of Psychiatric Genetics, 2025  
+2. Cosmicism and Artificial Intelligence: Beyond Human‑Centric AI, The 1st International Online Conference of the Journal Philosophies, 2025  
+3. When Planes Fly Better Than Birds: Should AIs Think Like Humans?, The 1st International Online Conference of the Journal Philosophies, 2025  
+4. Enhancing patient stratification and interpretability through class‑contrastive and feature attribution techniques, S. Olowu, N. Lawrence, S. Banerjee, IEEE Symposium on Computational Intelligence, Trondheim, 2025  
+5. “I apologize for my actions”: Emergent properties of generative agents and implications for a theory of mind, N. Diamond, S. Banerjee, IEEE Symposium on Computational Intelligence, Trondheim, 2025  
+6. Analysis of a planetary‑scale scientific collaboration dataset reveals novel patterns, S. Banerjee, Complex Systems Digital Campus World e‑Conference, 2016  
+7. A multi‑agent system approach to load‑balancing and resource allocation for distributed computing, S. Banerjee & J. Hecker, Complex Systems Digital Campus World e‑Conference, 2016  
+8. Computationally simulating intermodal terminal attractiveness and demand, S. Banerjee *et al.*, 23rd World Congress on Intelligent Transport Systems, 2016  
+9. Analysis of demand and operations of intermodal terminals, R. Garcia‑Flores, S. Banerjee *et al.*, 24th National Conference of the Australian Society for Operations Research, 2016  
+10. Forecasting in the era of Big Data: Lessons and pitfalls, Y. Tyshetskiy, S. Banerjee *et al.*, Annual Conference of the International Association of Maritime Economists, 2016  
+11. The Value of Inflammatory Signals in Adaptive Immune Responses, S. Banerjee, D. Levin, M. Moses, F. Koster & S. Forrest, ICARIS 10, Lecture Notes in Computer Science, 6825:1–14, 2011  
+12. Biologically Inspired Design Principles for Scalable, Robust, Adaptive, Decentralized Search and Automated Response (RADAR), M. Moses & S. Banerjee, IEEE Conference on Artificial Life, 2011  
+13. Modular RADAR: An Immune System Inspired Search and Response Strategy for Distributed Systems, S. Banerjee & M. Moses, ICARIS 9, Lecture Notes in Computer Science, 6209:116–129, 2010  
+14. A Hybrid Agent Based and Differential Equation Model of Body Size Effects on Pathogen Replication and Immune System Response, S. Banerjee & M. Moses, ICARIS 8, 5666-014, 2009 :contentReference[oaicite:7]{index=7}  
+
+### Book Chapters  
+- Using Optimisation and Machine Learning to Validate the Value of Infrastructure Investments, R. Garcia‑Flores, S. Banerjee, G. Mathews, in *Infrastructure Investments: Politics, Barriers and Economic Consequences*, 2016 :contentReference[oaicite:8]{index=8}  
+
+---
+
+## Honours and Awards
+
+- Student Award for Innovation in Informatics, University of New Mexico (2010).  
+- Distinction & 5th rank, Nagpur University BE (2003).
+
+---
+
+## Grants
+
+1. **OpenAI Researcher Access Program**, API credits: USD 3,000 (April 2024).  
+2. **AI@CAM Pilot Grants**, Co‑investigator: £150,000 (Feb 2024).  
+3. **MRC New Investigator Grant**, under review (May 2025).
+
+---
+
+## Invited Talks
+
+1. “Responsible AI and involving patients in AI model building,” Nokia Bell Labs, Cambridge (Feb 2025).  
+2. “UK‑India Cooperation Towards a Fair AI Horizon,” (Dec 2024).  
+3. Keynote, Physics of Self‑Organization in Complex Systems, Exeter (Sep 2024).  
+4. …  
+
+---
+
+## Supervisions
+
+- Supervised 14 MPhil students and 2 summer interns.  
+- Co‑supervised 1 PhD student.
+
+---
+
+## Academic Service
+
+- Recruitment panel member for PhD/MPhil admissions.  
+- Program committee member, Int’l Conference on Artificial Immune Systems; ECML‑PKDD Workshop (2023).  
+- Review Editor, *Frontiers in Virology*.  
+- Reviewer for IEEE T-SMC, IEEE T-ETCI, AAAI workshops, SIMIODE.
+
+---
+
+## Skills & Tools
+
+- **Programming:** Python, R, MATLAB, UNIX shell, C/C++, Perl, Haskell, ASP.NET.  
+- **Databases:** MS SQL Server, Sybase.  
+- **Image Analysis:** ImageJ, CellProfiler.  
+- Ranked Top 250 worldwide MATLAB Central contributor.  
+- **R Packages:** [dsSurvival](https://github.com/neelsoumya/dsSurvival), [dsSurvivalClient](https://github.com/neelsoumya/dsSurvivalClient).
+
+---
+
+## Attended Workshops & Short Courses
+
+- AEPP, University of Cambridge (Sept 2023–June 2024).  
+- AI Safety Policy Fellowship, Cambridge AI Safety Hub (Oct 2023).  
+- Northwestern University Data Science Summer School (Apr 2020).  
+- Santa Fe Institute Complex Systems Summer School (June 2008).      
+\item Experience in conducting, documenting and communicating research required.
+
+I have over 10 years experience in modelling and computational mathematics in different fields of computational biology ranging from immunology and virology to cell biology and metagenomics. I am committed to building a research program that computational biology to different biological systems of clinical and public health significance.
+ I have applied biostatistical techniques to three different disease systems: West Nile virus infection, cancer biology and inflammatory bowel disease. I have published more than 10 papers in journals and peer-reviewed conferences. One of my publications is in the journal Angewandte Chemie (impact factor = 13.7).
+
+
+\item Ability to work unsupervised and under own initiative is required.
+
+I am able to work unsupervised and on my own initiative.
+
+
+\item Experience in teaching and/or supporting junior staff is desirable.
+
+I have some experience teaching and mentoring junior staff and students.
+
+
+\item At least one first/author research article published, in press or accepted for publication in a major peer-reviewed journal is required.
+
+
+I have multiple first author publications in journals like the Royal Society Interface. I have the ability to publish high quality papers in leading journals \cite{Banerjee2018d,Banerjee2017g,Banerjee2016,Liu2014a,Mallick2019,Graessl2017,Banerjee2020d,Aschenbrenner2020}. I have published more than 10 papers in journals and peer-reviewed conferences. Some of my publications are in journals like \textit{Nature Communications} (impact factor = 11.8), \textit{Gut} (impact factor = 19.8) and \textit{Angewandte Chemie} (impact factor = 13.7). 
+
+Some of my most relevant publications are listed below:
+
+Hydroxychloroquine: balancing the needs of LMICs during the COVID-19 pandemic, Soumya Banerjee, \textit{Lancet Rheumatology}, 2(7):385-386, 2020
+
+Aschenbrenner D, Quaranta M, Banerjee S,  et al. (2020) Deconvolution of monocyte responses in inflammatory bowel disease reveals an IL-1 cytokine network that regulates IL-23 in genetic and acquired IL-10 resistance (in press) \textit{Gut} (impact factor = 19.8)
+
+Influence of correlated antigen presentation on T cell negative selection in the thymus, Soumya Banerjee, SJ Chapman, \textit{Journal of the Royal Society Interface}, 15(148), 20180311, 2018 (impact Factor = 4.3)
+
+Modelling the effects of phylogeny and body size on within-host pathogen
+replication and immune response, S. Banerjee, A. Perelson, M. Moses, \textit{Journal of the Royal Society Interface}, 14(136), 20170479, 2017 
+
+Estimating biologically relevant parameters under uncertainty for experimental within-host murine West Nile virus infection, S. Banerjee, J. Guedj, R. Ribeiro, M. Moses and A. Perelson, \textit{Journal of the Royal Society Interface}, 13(117), 20160130, 2016
+
+An excitable Rho GTPase signaling network generates dynamic subcellular
+contraction patterns, M. Graessl, J. Koch, A. Calderon, S. Banerjee, T. Mazel, N.
+Schulze, J. Jungkurth, A. Koseska, L. Dehmelt, P. Nalbant, \textit{Journal of Cell Biology}, 216(12), 4271-4285, 2017 (impact Factor = 9.7)
+
+A bioorthogonal small-molecule switch system for controlling protein function in
+cells, P. Liu, A. Calderon, G. Konstantinidis, J. Hou, S. Voss, X. Chen, F. Li, S. Banerjee, J. et al., \textit{Angewandte Chemie}, 53(38), 10049-10055, 2014 (impact factor = 13.7)
+
+Predictive metabolomic profiling of microbial communities using amplicon or metagenomic sequences, H. Mallick, E. Franzosa, L. McIver, S. Banerjee, A. Sirota-Madi, A. Kostic, C. Clish, H. Vlamakis, R. Xavier, C. Huttenhower, \textit{Nature Communications}, 10(1):3136, 2019 (impact factor = 12.1)
+
+Optogenetic tuning reveals Rho amplification-dependent dynamics of a cell contraction signal
+network, D. Kamps, J. Koch, V. Juma, E. Campillo, M. Graessl, S. Banerjee, T. Mazel, X. Chen, Y.
+Wu, S. Portet, A. Madzvamuse, P. Nalbant, L. Dehmelt, \textit{Cell Reports}, 33(9):108467, 2020 (Cell
+Press publishing group, Impact Factor = 8.1)
+
+%A relevant paper in the field of Computational Medicine (in press in the \textit{Gut) is also listed below \cite{Aschenbrenner2019}
+%
+%Aschenbrenner D, Quaranta M, Banerjee S, Ilott N, Jansen J, et al. (2019) Systems-level analysis of monocyte responses in inflammatory bowel disease identifies IL-10 and IL-1 cytokine networks that regulate IL-23. bioRxiv:719492 (under review)
+
+
+\item 
+Mandatory skills are;
+- Strong mathematical and computational background, particularly stochastic processes
+- Programming skills and experience writing simulations
+- Critical thinking and the ability to rigorously test predictions in multiple independent ways
+
+
+I have experience in stochastic processes. I also have experience in multi-scale simulations using genomic and single-cell sequencing data.
+These multi-scale simulations were coupled to large amounts of genomic data and were validated experimentally.
+
+
+\item Additionally, substantial research experience is valued in the following;
+- Experience in working with genomic data sets
+- Experience with python and latex
+- Experience mentoring others
+
+
+I have experience in multi-scale simulations using genomic and single-cell sequencing data. I also have extensive experience in working with genomic datasets.
+
+I also have a lot of experience programming in python (especially building stochastic simulators).
+
+I am also very proficient in latex.
+
+I have mentored PhD students.
+
+
+
+\item Ability to manage own workload in an independent way and to deal appropriately with competing priorities.
+
+In my PhD and post-doc, I have initiated two research projects. I have the ability to work independently and deal with competing priorities.
+
+
+
+\item A PhD (or equivalent) in a relevant subject such as mathematical, physical or biological sciences
+
+I have completed my PhD in Computer Science from the University of New Mexico, USA.
+
+
+\item Fellowship of the Higher Education Academy (A/C/I) and professional body membership such as Member of the British Computer Society
+
+I do not have these affiliations. However I am an active member and part of the organizing committee of Artificial Immune Systems.
+
+
+\item Experience of teaching in Higher Education
+
+I have experience of teaching in Higher Education especially at the Undergraduate and Postgraduate level.
+
+
+\item Communication and interpersonal skills required.
+
+I have a high-level of inter-personal and communication skills.
+I have excellent written and verbal communication skills as evidenced by my publications and 5 invited talks and 5 contributed talks.
+
+
+\item Ability to teach effectively and communicate with audiences and staff working with different technical and education backgrounds required.
+
+I have a high-level of inter-personal and communication skills.
+ I also work extensively with my collaborators in the experimental sciences. 
+ I enjoy communicating mathematical ideas, models and statistical results to non-statisticians including biologists and clinicians.
+I have experience working with domain experts from different fields and communicating results to diverse stakeholders.
+I have extensive experience working with experimentalists and have wet-lab experience. I am also very passionate about making computational and statistical tools accessible to biologists. To this end I have conducted lectures that demystify computational techniques for experimentalists. 
+
+
+\item Broad experience in curriculum development for health and/or information technologies
+
+I have experience developing curricula for health and information technologies.
+
+
+\item Demonstrate evidence of the development of innovative teaching techniques that are designed to create
+interest, understanding and enthusiasm among students; encouraging them to engage in the highest levels of scholarship and achievement.
+
+I am able to develop innovative teaching techniques that will engage students in the classrooms and lead them to the highest levels of academic and professional achievement.
+
+
+\item The ability to relate to a diverse cohort of students, including prospective, enrolled and graduated students,  with the capacity to conceive, initiate and run activities relevant to each of these different student groups.
+
+
+
+I have the ability to teach and relate to diverse group of students. I can conceive and implement lessons and activities that can cater to the individual learning needs of the students.
+
+
+
+\item A record of achievement in developing
+curricula and resources that is research led and
+led to improved student outcomes.
+
+I design student projects that are currently relevant problems in industry. This makes students more employable after graduation.
+
+I have a record of developing curricula that is driven by current industry-standard research that can lead to better employment and learning outcomes for students.
+
+
+
+\item Ability to work productively and cordially as part of a team.
+
+I am able to work effectively in teams. I worked in and managed teams while working in industry.
+
+
+\item An ability to innovate, including the development of new modules
+
+I am able to innovate in teaching in the classroom and contribute to development of new modules
+
+
+I have the ability to produce high quality curricula and program materials.
+
+I use technology to engage students. These include graphical user interfaces and interactive
+environments. These tools complement my hands-on teaching style. I encourage my students to
+play around with computer programs and user interfaces to build interactive prototypes to solve
+problems in complex systems.
+
+
+
+I am very passionate about teaching. 
+I have also co-designed teaching resources with educators to make my teaching broadly
+accessible to classrooms \cite{Banerjee2019a}.
+
+I also make my teaching resources freely available for use by others \cite{Banerjee2019a}.
+
+A sample of my teaching material is available online 
+
+https://osf.io/25gnz/
+
+https://sites.google.com/site/neelsoumya/teaching
+
+
+I am very passionate about using educational tools for outreach. I regularly review teaching
+material for a non-profit organization called SIMIODE. My contributions as a reviewer of peer-reviewed
+course material have been acknowledged.
+I have also co-designed teaching resources with educators to make my teaching broadly
+accessible to classrooms \cite{Banerjee2019a}.
+
+A sample of my teaching material is available online
+
+https://www.simiode.org/resources/3206
+
+https://osf.io/25gnz/
+
+
+
+\item An excellent understanding of underlying theory and current, industrial practice in
+software and/or data engineering
+
+I have an excellent understanding of the theory and industrial practice in software engineering, data engineering and data science.
+
+
+I have worked in industry (in the financial services sector) for Fortune 500 clients.
+
+I also have experience engaging with industry and other diverse stakeholders. I interact with pharmaceutical companies and other industry partners.
+
+I have knowledge of practical issues related to software and data science in industry.
+I would like to teach students about practices that are relevant in industry. 
+
+I would like to design curricula that is driven by current industry relevant problems and practices. This will lead to better employment and learning outcomes for students.
+
+
+\item An aptitude for teaching, and the skills and judgement needed to teach advanced
+concepts and techniques to working professionals with a range of experiences and
+expectations.
+
+I have an aptitude for teaching. I have the skills needed to teach advanced concepts and practical techniques to working professionals.
+
+I have worked in industry and I would like to teach about practical skills that are relevant to professionals.
+
+
+
+
+\item A genuine enthusiasm for teaching and learning, and the ability to work effectively as
+part of a team of academic and administrative staff responsible for delivery
+
+I am very passionate about teaching, especially skills that can be used in industry.
+The skills are related to designing and implementing production systems in data science and software.
+
+I have the ability to work in a team of staff responsible for delivery.
+
+
+
+\item Experience of software, data, or security engineering in a production context
+
+I have experience working in industry and have designed and implemented software systems running in production on critical financial data.
+
+I also have experience engaging with industry and other diverse stakeholders. I have interacted with pharmaceutical companies and supply chain management companies. I would like to design student projects that are currently relevant to problems faced by industry. 
+
+
+
+
+
+
+
+\item An ability to develop a portfolio of external income generation
+
+I have the ability to generate external income by applying for grants from government agencies and industry.
+
+\item A track record of securing research funding grant
+
+I have the ability to raise research funds through grant applications. I have submitted grant applications as a co-principal investigator to GCRF (Global Challenges Research Fund).
+
+I have the ability to independently plan and manage research projects. I have experience making research budgets.
+
+
+
+\item Strong industry and community engagement experience. Proven ability to communicate effectively with academic staff, researchers, students, government and health industry professionals
+
+I have experience engaging with industry and other diverse stakeholders. I interact with pharmaceutical companies and other industry partners.
+
+
+\item A flexible approach to work and the ability to engage with colleagues and scientists from different backgrounds and fields are required.
+
+I believe collaboration is key to progressing science. I collaborate and interact extensively with my colleagues. I work with my colleagues in biostatistics and mathematics to develop new statistical techniques to analyse biological data. I also work extensively with my collaborators in the experimental sciences, especially immunologists, virologists and cell biologists to apply mathematical techniques to their problems.
+
+
+\item Time management skills required.
+
+I am very adept at managing my time.
+
+
+\item  Well organized with good time management skills 
+
+I am very well organized with good time management skills and can effectively prioritise multiple tasks.
+
+\item Post holder may be required to attend courses or relevant international meetings to enable continuous professional development and remain up to date with current developments in the field.
+
+I am able to and willing to attend courses and relevant meetings to develop myself professionally.
+
+
+\item Flexible approach to work associated with requirements for research involving interdisciplinary techniques is essential, which will require ability to adapt the working schedule to varying hours at a short notice (e.g. late work).
+
+I am able to work in a flexible and adaptive manner to ensure that deliverables and deadlines are met.
+
+
+
+
+\item Evidence of ability to work collaboratively across disciplines.
+
+
+I believe collaboration is key to progressing science. I collaborate and interact extensively with my colleagues. I work with my colleagues in biostatistics and mathematics to develop new statistical techniques to analyse biological data. I also work extensively with my collaborators in the experimental sciences, especially immunologists, virologists and cell biologists to apply mathematical techniques to their problems.
+
+
+\item Willingness to continually update knowledge in the specialist area and engage in continuous professional development.
+
+I am willing to continuously update my knowledge in specialist areas and engage in continuous professional development.
+
+
+\item Strong programming skills, preferably in Python or Java.
+
+I have strong programming skills in Python, R and MATLAB.
+I am ranked within the top 200 worldwide on MATLAB Central (an online repository for Matlab code contributed by users all over the world). Prior to graduate school, I was a software engineer working in the financial services sector for Fortune 500 clients. Because of this experience, I write well-documented and rigorously tested code.
+
+Examples of my code and open source projects are available at
+
+https://bitbucket.org/neelsoumya/public\_open\_source\_datascience
+
+https://sites.google.com/site/neelsoumya/software
