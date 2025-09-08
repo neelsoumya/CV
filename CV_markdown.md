@@ -168,7 +168,6 @@
 1. “Responsible AI and involving patients in AI model building,” Nokia Bell Labs, Cambridge (Feb 2025).  
 2. “UK‑India Cooperation Towards a Fair AI Horizon,” (Dec 2024).  
 3. Keynote, Physics of Self‑Organization in Complex Systems, Exeter (Sep 2024).  
-4. …  
 
 ---
 
