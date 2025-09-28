@@ -70,6 +70,11 @@ I am giving you the selection criterion for a role. give me short responses to e
 - Developed special topics course **“Unconventional Approaches to AI”** ([GitHub](https://github.com/neelsoumya/special_topics_unconventional_AI)).  
 - Developed and taught reproducible research in R ([GitHub](https://github.com/neelsoumya/teaching_reproducible_science_R)).  
 - Teaching materials: [visualization lectures](https://github.com/neelsoumya/visualization_lecture) & [site](https://sites.google.com/site/neelsoumya/teaching).  
+
+- An example course I developed is available here:
+
+https://cambiotraining.github.io/ml-unsupervised/
+
 - Selected teaching highlights:
   1. Cambridge‑Africa Programme lectures (2020)  
   2. Oxford Complex Networks Summer School (2017)  
