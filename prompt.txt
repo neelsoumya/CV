@@ -1,4 +1,184 @@
-I am giving you the selection criterion for a role. give me short responses to each of the selection criterion. A short version of my CV and some previous responses to selection criterion is here: # Soumya Banerjee
+I am giving you the job description for a senior lecturer/associate professor at university of east anglia
+
+Give me short responses to the selection criterion.
+
+
+The Role
+
+
+The role holder will carry out research and innovation within the
+framework of the School’s research strategy and plan, teach and
+assess AI and other topics at undergraduate and postgraduate
+levels. They will supervise PhD students, carry out a formal
+administrative role within the School and act as a Student Adviser.
+KEY RESPONSIBILITIES
+RESEARCH
+You will be required to develop your research profile as appropriate. In
+particular you will be expected to:
+• Maintain internationally excellent attainment within the appropriate
+academic community.
+• Actively undertake research in AI or related fields.
+• Produce high quality research having demonstrable impact supporting a
+strong REF submission from the School.
+• Develop, singly or conjointly, proposals to secure external funding to
+support research activity.
+• Disseminate results through peer-reviewed journals and conference
+presentations.
+• Have a range of industry collaborators with whom research is applied and
+developed.
+TEACHING
+Teaching is a key activity. It includes the giving of lectures, seminars and
+individual supervision of dissertation students. In particular, your duties will be
+as follows:
+• Deliver high quality teaching (including the giving of lectures, seminars and
+labs), on undergraduate and postgraduate programmes.
+• Proactively design develop, manage and organise modules, usually
+through collaboration with colleagues.
+• High quality supervision of undergraduate and postgraduate student
+projects and dissertations.
+• Undertake all administration and academic duties (e.g. setting examination
+questions, marking, providing additional assessments as required, and
+providing pastoral support of students) required to sustain the delivery of
+high-quality teaching.
+• Take responsibility for the delivery and assessment of specific modules
+and ensure that the content echoes current standards, including
+employability skills, and that the assessment type and volume is
+appropriate for students’ programmes of study.
+• Assess students by a variety of means, according to prescribed
+specifications as appropriate, to monitor student progress and
+performance including setting and marking examinations and carrying out
+additional assessments as required.
+• Attend Open Days and Applicant Days and interview prospective students
+on a regular basis. 
+THE ROLE (CONTINUED)
+6
+ADMINISTRATION
+The School and University provide support for administration; however all
+academic staff are expected to:
+• Take responsibility for some of the degree programmes within the School.
+• Undertake appropriate administrative duties to assure quality teaching
+and research activities as required by the Head of School, e.g. course
+director, year abroad organiser, teaching director, research director, chair of
+examiners, admissions director, enterprise and engagement director.
+• Contribute to the development of the School and University through
+relevant committee work.
+• Take responsibility for the management and administration of personal
+contributions to the University’s academic activities.
+GENERAL
+• Advise a full complement of student advisees.
+• Promote Enterprise and Engagement at UEA, which incorporates
+‘knowledge transfer’ and comprises academic enterprise and business,
+community and public engagement, and is normally the use of or
+development of intellectual capital through an interaction between the
+university and non-academic sectors.
+• Attend School meetings as required and participating in the development
+of teaching and research within the School.
+• Engage in continuous professional development, for example through
+participation in relevant staff development programmes.
+• Undertake, subject to the agreement of the Head of School and the
+University as appropriate, external commitments which enhance the
+reputation of the University.
+• Contribute to quality audits and/or assessments in higher education.
+• Undertake other duties at a comparable level of responsibility as may
+be reasonably requested from time to time by the Head of School, e.g.
+contribution to School events.
+• Contribute to the continuous development and implementation of the
+School.
+• Act in accordance with the University’s Values, in all aspects of work.
+• Abide by all University Regulations and Policies relevant to the role.
+• Observe the strict rules of confidentiality applicable to work within the
+School. 
+
+
+
+
+
+The selection criterion are here:
+
+
+
+
+
+
+EDUCATION AND TRAINING
+• A first degree (or equivalent) in
+Computing Science, AI, Data Science
+or a relevant subject area. (E)
+• PhD (or equivalent) with a large Artificial
+Intelligence (AI) component. (E)
+• Postgraduate Certificate in
+Higher Education. (D)
+SKILLS, KNOWLEDGE AND
+EXPERIENCE
+• Track record, appropriate to experience
+of high-quality publications as the
+corresponding author in peer-reviewed
+journals with a focus on AI. (E)
+• Experience of producing research
+with impact beyond academia. (E)
+• Evidence of successful applications
+for external research grant income as
+the Principal Investigator (E)
+- particularly with a focus on AI (D).
+• Expertise in AI, Machine Learning
+or related subject areas(s). (E)
+• Proven experience of high-quality
+undergraduate and postgraduate teaching
+relevant to Computing Science (E)
+- or more specifically AI (D).
+• Experience of student assessment
+at all levels including coursework,
+examinations and undergraduate and
+postgraduate dissertations. (E)
+• Experience of course and module design,
+organisation and management. (E)
+• Administrative experience and evidence of
+effectiveness and ability in this respect. (E)
+• Collaboration with external stakeholders
+that shows impact outside of academia (E)
+• Strong organisational skills; ability to plan and
+manage own workload, meeting deadlines. (E)
+• Demonstrable administrative and prioritisation
+skills with the ability to manage a varied
+workload in a high paced environment. (E)
+• Excellent interpersonal skills; ability to
+quickly establish and maintain good
+working relationships at all levels. (E)
+• Strong verbal and written communication
+skills, with the ability to communicate
+complex information clearly. (E)
+• Successful primary supervision of
+PhD students to completion (E).
+• Experience of administrative roles
+in a University department. (D)
+• Experience of relevant enterprise
+and engagement activities. (D)
+• Extensive network of national and international
+collaborators from academia, and industry. (D)
+PERSONAL ATTRIBUTES
+• Demonstrate UEA’s Values and behaviours
+in day-to-day work and support a
+team culture that reflects them (E)
+• Proactive and self-motivated and
+willing to take ownership of tasks
+without close supervision. (E)
+• Able to maintain confidentiality. (E)
+• Ability to work effectively with colleagues
+and students from diverse backgrounds
+and to contribute to an inclusive working
+and learning environment (D)
+Essential Requirements (E) are those, without
+which, a candidate would not be able to do the job.
+Desirable Requirements (D) are those which
+would be useful for the post holder to possess
+and will be considered when more than one
+applicant meets the essential requirements.
+
+
+
+
+
+A short version of my CV and some previous responses to selection criterion is here: # Soumya Banerjee
 
 **Email:** neel.soumya@gmail.com  
 **Website:** [https://sites.google.com/site/neelsoumya/](https://sites.google.com/site/neelsoumya/)
@@ -14,7 +194,7 @@ I am giving you the selection criterion for a role. give me short responses to e
 
 ## Recent Employment
 
-### Senior Research Fellow and Affiliated Lecturer  
+### Assistant Research Professor  
 **University of Cambridge, UK** (2022–Present)  
 - Develop explainable AI techniques and apply them to domains like healthcare.  
 - Teach AI courses and supervise student projects.
@@ -66,13 +246,13 @@ I am giving you the selection criterion for a role. give me short responses to e
 ## Teaching Experience
 
 - Fellow of the Higher Education Academy (Advance HE).  
-- Teach ML, data science, reproducibility, and visualization at University of Cambridge & Oxford.  
-- Developed special topics course **“Unconventional Approaches to AI”** ([GitHub](https://github.com/neelsoumya/special_topics_unconventional_AI)).  
+- Teach introduction to machine learning, data science, reproducibility, and data visualization at University of Cambridge.  
 - Developed and taught reproducible research in R ([GitHub](https://github.com/neelsoumya/teaching_reproducible_science_R)).  
 - Teaching materials: [visualization lectures](https://github.com/neelsoumya/visualization_lecture) & [site](https://sites.google.com/site/neelsoumya/teaching).  
 
-- An example course I developed is available here:
-
+My teaching materials and practical guides are used by students and colleagues and are publicly available:
+https://sites.google.com/site/neelsoumya/teaching
+An example course I developed is available here:
 https://cambiotraining.github.io/ml-unsupervised/
 
 - Selected teaching highlights:
