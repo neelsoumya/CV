@@ -18,3 +18,6 @@ CV and other materials for Soumya Banerjee
 
 * https://loop.frontiersin.org/people/138190/overview
 
+* `SKILLS.md` for responding to selection criterion
+
+
