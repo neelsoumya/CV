@@ -19,8 +19,12 @@
 
 ## Recent Employment
 
+### Senior Lecturer
+University of York, UK (2026 - present)
+
+
 ### Assistant Research Professor  
-**University of Cambridge, UK** (2022–Present)  
+**University of Cambridge, UK** (2022–2026)  
 - Develop explainable AI techniques and apply them to domains like healthcare.  
 - Teach AI courses and supervise student projects.
 
