@@ -72,6 +72,53 @@ University of York, UK (2026 - present)
 
 ---
 
+## GRANTS 
+1) Grant from OpenAI Researcher Access Program for API credits (April 2024): 3000 US dollars
+2) Co-investigator on two pilot grants from the AI@CAM initiative at the University of Cambridge (February 2024): 150,000 pounds
+3) Grants under review: Co-investigator on MRC new investigator grant (May 2025)
+
+
+## INVITED TALKS
+1) Responsible AI and involving patients in AI model building, Nokia Bell Labs, Cambridge, February 2025
+2) Talk at UK-India Cooperation Towards a Fair AI Horizon, December 2024
+3) Keynote presentation, Physics of Self-Organization in Complex Systems Satellite meeting, Conference on Complex Systems, Exeter, UK, September 2024
+4) Computational Immunology, Microsoft Research, Cambridge, UK, March 2017
+5) Modeling Emerging Pathogens under Uncertainty and Sparse Experimental Data, Harvard Medical School, Boston, USA, September 2014
+6) Modeling Emerging Pathogens under Uncertainty and Sparse Experimental Data, IBM Research, India, August 2014
+7) Computational Screens for Novel Gut Microbial Bioactive Compounds, Novartis Institutes for Biomedical Research, Boston, USA, July 2014 
+8) Scaling in the Immune System, Commonwealth Scientific and Industrial Research Organisation, Australia, March 2013
+9) A Mathematical Model of Body Size Effects on Pathogen Replication and Immune System Response, International Network of Theoretical Immunology, Los Alamos National Laboratories, USA, August 2010
+10) A Hybrid Agent Based and Differential Equation Model of Body Size Effects on Pathogen Replication and Immune System Response, School of Health Sciences, University of New Mexico, USA, April 2010
+
+## SUPERVISIONS
+
+I have supervised 17 MPhil (postgraduate) students and 3 summer interns. I have co-supervised 1 PhD student.
+
+## ACADEMIC SERVICE
+
+1) Program committee member of ICLR Workshop HCAIR 2026
+2) Served on recruitment panels for recruiting PhD and MPhil/MSc students
+3) Program committee member of International Conference on Artificial Immune Systems
+4) Program committee member for ECML-PKDD Workshop on Hybrid Human-Machine Learning and Decision Making, 2023
+5) Review Editor for Frontiers in Virology  	
+6) Reviewer for IEEE Transactions on Systems, Man, and Cybernetics and IEEE Transactions on Emerging Topics in Computational Intelligence, AAAI workshop NeurMAD
+7) Reviewer for SIMIODE (Systemic Initiative for Modeling Investigations and Opportunities with Differential Equations)
+
+
+## COMPUTER LANGUAGES
+
+1) Programming - Python, R, MATLAB, UNIX shell scripting, C, C++, Perl, ASP.NET, Haskell
+2) Databases - MS SQL Server, Sybase
+3) Image analysis and automated cell tracking tools – ImageJ, CellProfiler
+4) Distinctions – Ranked within the Top 250 worldwide as an open-source code 	
+contributor in the MATLAB Central code repository
+https://sites.google.com/site/neelsoumya/software
+5) R packages I have written  
+https://github.com/neelsoumya/dsSurvival
+
+
+
+
 ## Teaching Experience
 
 - Fellow of the Higher Education Academy (Advance HE).  
