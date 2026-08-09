@@ -1,0 +1,319 @@
+\documentclass[11pt,a4paper]{article}
+
+% ---------- Packages ----------
+\usepackage[margin=2.2cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+
+% ---------- Colours ----------
+\definecolor{cvblue}{RGB}{0,51,102}
+
+% ---------- Section formatting ----------
+\titleformat{\section}
+  {\Large\bfseries\color{cvblue}}
+  {}{0em}{}
+  [\vspace{-0.3em}\titlerule\vspace{0.3em}]
+\titlespacing{\section}{0pt}{1.4em}{0.6em}
+
+\titleformat{\subsection}
+  {\bfseries}
+  {}{0em}{}
+\titlespacing{\subsection}{0pt}{0.9em}{0.3em}
+
+% ---------- Hyperref ----------
+\hypersetup{
+  colorlinks=true,
+  linkcolor=cvblue,
+  urlcolor=cvblue,
+  citecolor=cvblue,
+  pdftitle={Soumya Banerjee - Curriculum Vitae},
+  pdfauthor={Soumya Banerjee}
+}
+
+% ---------- Header / footer ----------
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\small\thepage\ of \pageref{LastPage}}
+
+% ---------- List spacing ----------
+\setlist[itemize]{topsep=2pt, itemsep=2pt, parsep=0pt, leftmargin=1.4em}
+\setlist[enumerate]{topsep=2pt, itemsep=2pt, parsep=0pt, leftmargin=1.6em}
+
+\newcommand{\entry}[3]{%
+  \noindent\textbf{#1} \hfill \textit{#2}\\
+  #3\par\smallskip
+}
+
+\begin{document}
+% ============================================================
+% HEADER
+% ============================================================
+\begin{center}
+  {\huge\bfseries\color{cvblue} Soumya Banerjee}\\[0.4em]
+  \href{mailto:neel.soumya@gmail.com}{neel.soumya@gmail.com} \quad $\vert$ \quad
+  \href{https://sites.google.com/site/neelsoumya/}{sites.google.com/site/neelsoumya}
+\end{center}
+
+\vspace{0.5em}
+
+% ============================================================
+% EDUCATION
+% ============================================================
+\section*{Education}
+
+\entry{PhD in Computer Science}{2013}{University of New Mexico, USA}
+\entry{Bachelor of Engineering (Computer Science), with Distinction}{2003}{Nagpur University, India}
+
+% ============================================================
+% RECENT EMPLOYMENT
+% ============================================================
+\section*{Recent Employment}
+
+\entry{Senior Lecturer}{University of York, UK, 2026 -- till date}{}
+
+\entry{Assistant Research Professor}{University of Cambridge, UK, 2025 -- 2026}{}
+
+\entry{Senior Research Fellow and Affiliated Lecturer}{University of Cambridge, UK, 2022 -- 2025}{
+I develop explainable AI techniques and apply them to various domains like healthcare. I also teach courses on AI and supervise student projects.}
+
+\entry{Postdoctoral Researcher}{University of Cambridge, UK, 2019 -- 2022}{
+I used machine learning techniques and data science on electronic healthcare record data to help stratify patients and predict mortality. This work was published in \textit{Nature Partner Journal Schizophrenia}.}
+
+\entry{Postdoctoral Researcher}{University of Oxford, UK, 2016 -- 2018}{
+This project involved modeling negative selection in the immune system, using multi-scale models to simulate how immune system cells are trained in the thymus. The work resulted in a manuscript published in the \textit{Journal of the Royal Society Interface}.}
+
+\entry{Researcher}{Commonwealth Scientific and Industrial Research Organisation, Australia, 2015 -- 2016}{
+This project involved modeling socio-economic systems by combining open data with machine learning techniques, using a publicly available UCI Machine Learning Repository dataset on crime in cities. Statistical, machine learning, and non-linear dynamical models were used to infer novel patterns in urban crime. This resulted in a manuscript published in \textit{Palgrave Communications}.}
+
+\entry{Post-doctoral Research Fellow}{Harvard University, Harvard Medical School and Broad Institute of Harvard and MIT, USA, 2014 -- 2015}{
+This work involved investigating the interaction between the immune system and the human microbiome, implicated in disorders such as inflammatory bowel disease. Computational techniques were used to predict compounds likely to be secreted by gut microbes based on their genome; compounds computationally predicted to be differentially abundant in healthy vs.\ disease subjects across multiple cohorts are likely to play an important role in inflammatory bowel disease. This project was implemented in Python, shell scripts, and MATLAB.}
+
+\entry{Post-doctoral Research Fellow}{Max Planck Institute for Molecular Physiology, Germany, 2013 -- 2014}{
+The Rho GTPase family of proteins influence cell motility and cytoskeleton dynamics across all eukaryotes. This project investigated the interaction between three different Rho GTPase proteins and how this shapes cell motility, using non-linear differential equation models. Hierarchical Bayesian models were used to combine data from different experiments for more accurate parameter estimates despite noisy experimental data. All code was implemented in MATLAB and shell scripts and run on high-performance computing platforms; automated image analysis of cell images from microscopes was also implemented using tools like CellProfiler and ImageJ. Training was also received in wet-lab skills including plating and splitting cells, staining with primary and secondary antibodies, transfection, and microscopy. The work resulted in publications in \textit{Angewandte Chemie} (Impact Factor = 13.1) and the \textit{Journal of Cell Biology} (Impact Factor = 9.7); one further manuscript was in preparation.}
+
+\entry{Research Intern}{Los Alamos National Laboratories, Theoretical Biology and Biophysics Group, USA, 2009 -- 2012}{
+This project (PhD thesis) involved modeling emerging pathogens (such as West Nile virus and avian influenza) with sparse experimental data and considerable parameter uncertainty. The complex interaction between virus, host cells, and the host immune system was simulated using non-linear differential equations, building mathematical models able to predict biologically relevant quantities such as the basic reproductive number and infectious virion burst size with high precision despite noisy data and input uncertainty. Novel contributions included: (1) a combination of knockout experimental data and mathematical models, and (2) hierarchical Bayesian models incorporating hierarchy in data and biologically motivated priors to generate more precise estimates than otherwise possible from sparse experimental data. The work resulted in a manuscript accepted in the \textit{Journal of the Royal Society Interface} and was presented at three international venues. The MATLAB programs developed to solve these statistical problems were made accessible via easy-to-use graphical user interfaces and released as open source; based on download counts, this work has been ranked within the Top 250 worldwide among MATLAB open-source code contributors.}
+
+\entry{Research Assistant}{University of New Mexico, Department of Computer Science, USA, 2007 -- 2013}{
+This project involved work in computational immunology: using techniques from computer science to solve problems in immunology, and taking inspiration from the immune system to solve problems in computer science. Specifically, this work suggested how the physical architecture of the immune system might lead to nearly scale-invariant immune search and response, and proposed architectures for human-engineered distributed systems (such as peer-to-peer networks and mobile ad-hoc networks) with faster search and response characteristics, inspired by the immune system. The work resulted in one journal publication (\textit{Swarm Intelligence}) and four peer-reviewed conference publications.}
+
+\entry{Senior Software Engineer and Technical Lead}{Cognizant Technology Solutions Ltd., India, 2004 -- 2007}{
+This work was in the financial services sector with various Fortune 500 clients, involving interacting with clients, defining project requirements, implementing solutions according to requirements, coordinating a team of developers, and rigorous testing. Work was on the UNIX platform using C, C++, shell scripts, and Sybase, as well as web-based application development with ASP.NET and database development with MS SQL Server.}
+
+\entry{Software Engineer}{Automation Engineers, India, 2003 -- 2004}{}
+
+% ============================================================
+% TEACHING EXPERIENCE
+% ============================================================
+\section*{Teaching Experience}
+
+Fellow of the Higher Education Academy, Advance HE. Teaches machine learning at the University of Cambridge Department of Computer Science and Bioinformatics Training Centre, and has taught students from Uganda through the University of Cambridge Africa programme. Also taught data science at the University of Oxford Complex Networks Summer School.
+
+Teaching experience spans data science, machine learning, advanced machine learning topics, reproducibility techniques in machine learning, and data visualization, over the last 10 years in higher education institutions.
+
+\textbf{Example courses developed and taught:}
+\begin{itemize}
+  \item Unsupervised machine learning course: \url{https://cambiotraining.github.io/ml-unsupervised/}
+  \item \textit{Unconventional Approaches to Artificial Intelligence} (special topics course developed): \url{https://github.com/neelsoumya/special_topics_unconventional_AI}
+  \item Reproducible research in R: \url{https://github.com/neelsoumya/teaching_reproducible_science_R}
+  \item Data science and visualization: \url{https://github.com/neelsoumya/visualization_lecture}
+  \item Full teaching materials (machine learning, complex systems, programming basics): \url{https://sites.google.com/site/neelsoumya/teaching}
+\end{itemize}
+
+\textbf{Other teaching activities:}
+\begin{enumerate}
+  \item Cambridge-Africa Programme, University of Cambridge, 2020 (lectures)
+  \item Oxford Summer School in Economic Networks, Mathematical Institute, University of Oxford, 2017 (lectures and tutorials)
+  \item Trained in teaching at the University of Oxford Doctoral Training Centre, 2017
+  \item Lectured at the Complex Adaptive Systems course, Department of Computer Science, University of New Mexico, USA, 2009--2012 (lectures and tutorials on complex systems and computer science)
+  \item Co-designed teaching resources with educators to make teaching broadly accessible (samples available at \url{https://www.simiode.org/resources/3206} and \url{https://osf.io/25gnz/})
+\end{enumerate}
+
+% ============================================================
+% PUBLICATIONS
+% ============================================================
+\section*{Publications}
+
+\textit{Note: in Computer Science, conferences are peer-reviewed and function as a primary publication venue.}
+
+\subsection*{Key Publications}
+\begin{enumerate}
+  \item S.~Banerjee, P.~Alsop, L.~Jones, and R.~Cardinal. Patient and public involvement to build trust in artificial intelligence: a framework, tools and case studies. {\em Patterns}, 3(6):100506, 2022. Cell Press.
+  \item S.~Banerjee, P.~Lio, P.~Jones, and R.~Cardinal. A class-contrastive human-interpretable machine learning approach to predict mortality in severe mental illness. {\em NPJ Schizophrenia}, 7:60, 2021. Nature Publishing Group, Impact Factor = 6.3.
+  \item D.~Aschenbrenner, M.~Quaranta, S.~Banerjee, et~al. Deconvolution of monocyte responses in inflammatory bowel disease reveals an il-1 cytokine network that regulates il-23 in genetic and acquired il-10 resistance. {\em Gut}, 2020. BMJ Publishing Group, Impact Factor = 19.8.
+  \item S.~Banerjee. Hydroxychloroquine: balancing the needs of lmics during the covid-19 pandemic. {\em Lancet Rheumatology}, 2(7):385--386, 2020.
+  \item S.~Banerjee and S.~J. Chapman. Influence of correlated antigen presentation on t cell negative selection in the thymus. {\em Journal of the Royal Society Interface}, 15(148):20180311, 2018. Impact Factor = 4.3.
+\end{enumerate}
+
+\subsection*{Refereed Journal Papers}
+\begin{enumerate}
+  \item S.~Banerjee. Balancing objects and processes: Advocating pluralism in biology: Comment on ``thoughts and thinkers: On the complementarity between objects and processes'' by chris fields and michael levin. {\em Physics of Life Reviews}, 2025. Impact Factor 13.7.
+  \item D.~Avraam, R.~Wilson, N.~Chan, S.~Banerjee, et~al. {DataSHIELD}: Mitigating disclosure risk in a multi-site federated analysis platform. {\em Bioinformatics Advances}, page vbaf046, 2025. Oxford University Press.
+  \item M.~Bober-Irizar and S.~Banerjee. Neural networks for abstraction and reasoning. {\em Scientific Reports}, 14:27823, 2024. Nature Publishing Group, Impact Factor 3.8.
+  \item S.~Banerjee. Generating complex explanations for artificial intelligence models: An application to clinical data on severe mental illness. {\em Life}, 14(7):807, 2024.
+  \item H.~Holm and S.~Banerjee. Intelligence in animals, humans and machines: a heliocentric view of intelligence? {\em AI \& Society}, 2024.
+  \item S.~Banerjee and S.~Griffiths. Involving patients in artificial intelligence research to build trustworthy systems. {\em AI \& Society}, 2023.
+  \item S.~Banerjee and T.~Bishop. {dsSurvival 2.0}: Privacy enhancing survival curves for survival models in the federated {DataSHIELD} analysis system. {\em BMC Research Notes}, 16:98, 2023.
+  \item X.~Escrib\`{a}-Montagut, Y.~Marcon, D.~Avraam, S.~Banerjee, T.~Bishop, P.~Burton, and J.~Gonz\'{a}lez. Software application profile: {ShinyDataSHIELD}---an {R Shiny} application to perform federated non-disclosive data analysis in multicohort studies. {\em International Journal of Epidemiology}, page dyac201, 2022. Oxford University Press, Impact Factor 9.8.
+  \item S.~Banerjee and T.~Bishop. {dsSynthetic}: Synthetic data generation for the {DataSHIELD} federated analysis system. {\em BMC Research Notes}, 15(1):230, 2022.
+  \item S.~Banerjee et~al. {dsSurvival}: Privacy preserving survival models for federated meta-analysis of clinical data. {\em BMC Research Notes}, 15(1):197, 2022.
+  \item D.~Kamps, J.~Koch, V.~Juma, E.~Campillo, M.~Graessl, S.~Banerjee, T.~Mazel, X.~Chen, Y.~Wu, S.~Portet, A.~Madzvamuse, P.~Nalbant, and L.~Dehmelt. Optogenetic tuning reveals rho amplification-dependent dynamics of a cell contraction signal network. {\em Cell Reports}, 33(9):108467, 2020. Cell Press, Impact Factor = 8.1.
+  \item S.~Chen, P.~Jones, B.~Underwood, A.~Moore, E.~Bullmore, S.~Banerjee, et~al. The early impact of {COVID-19} on mental health and community physical health services and their patients' mortality in cambridgeshire and peterborough, {UK}. {\em Journal of Psychiatric Research}, 131:244--254, 2020. Impact Factor = 4.4.
+  \item H.~Mallick, E.~Franzosa, L.~McIver, S.~Banerjee, A.~Sirota-Madi, A.~Kostic, C.~Clish, H.~Vlamakis, R.~Xavier, and C.~Huttenhower. Predictive metabolomic profiling of microbial communities using amplicon or metagenomic sequences. {\em Nature Communications}, 10(1):3136, 2019. Nature Publishing Group, Impact Factor = 12.1.
+  \item S.~Banerjee, A.~Perelson, and M.~Moses. Modelling the effects of phylogeny and body size on within-host pathogen replication and immune response. {\em Journal of the Royal Society Interface}, 14(136):20170479, 2017. Impact Factor = 4.3.
+  \item M.~Graessl, J.~Koch, A.~Calderon, S.~Banerjee, T.~Mazel, N.~Schulze, J.~Jungkurth, A.~Koseska, L.~Dehmelt, and P.~Nalbant. An excitable {Rho GTPase} signaling network generates dynamic subcellular contraction patterns. {\em Journal of Cell Biology}, 216(12):4271--4285, 2017. Impact Factor = 9.7.
+  \item S.~Banerjee, J.~Guedj, R.~Ribeiro, M.~Moses, and A.~Perelson. Towards a quantitative understanding of within host dynamics of west nile virus infection. {\em Journal of the Royal Society Interface}, 13(117):20160130, 2016. Impact Factor = 4.3.
+  \item D.~Levin, S.~Forrest, S.~Banerjee, M.~Moses, and F.~Koster. A spatial model of the efficiency of t cell search in the influenza infected lung. {\em Journal of Theoretical Biology}, 398:52--63, 2016. Impact Factor = 2.2.
+  \item S.~Banerjee, P.~Van~Hentenryck, and M.~Cebrian. Competitive dynamics between criminals and law enforcement explains the super-linear scaling of crime in societies. {\em Palgrave Communications}, 1:15022, 2015. Nature Publishing Group.
+  \item P.~Liu, A.~Calderon, G.~Konstantinidis, J.~Hou, S.~Voss, X.~Chen, F.~Li, S.~Banerjee, J.~Hoffmann, C.~Theiss, L.~Dehmelt, and Y.~Wu. A bioorthogonal small-molecule switch system for controlling protein function in cells. {\em Angewandte Chemie}, 53(38):10049--10055, 2014. Impact Factor = 13.7.
+  \item C.~Balch, H.~Arias-Pulido, S.~Banerjee, A.~Lancaster, K.~Clark, M.~Perilstein, B.~Hawkins, J.~Rhodes, P.~Sliz, J.~Wilkins, and T.~Chittenden. Science and technology consortia in {US} biomedical research: A paradigm shift in response to unsustainable academic growth. {\em BioEssays}, 37(2):119--122, 2014. Impact Factor = 5.4.
+  \item S.~Banerjee and M.~Moses. Scale invariance of immune system response rates and times: Perspectives on immune system architecture and implications for artificial immune systems. {\em Swarm Intelligence}, 4(4):301--308, 2010. Impact Factor = 2.1.
+\end{enumerate}
+
+\subsection*{Refereed Workshop Papers}
+\begin{enumerate}
+  \item O.~Ikechukwu, L.~Davidson, S.~Banerjee, A.~Dasgupta, L.~Kenney, and V.~H. Nagaraja. Bridging the gap with retrieval-augmented generation: Making prosthetic device user manuals available in marginalised languages. In {\em Data Science Africa 2025 Workshop}, 2025.
+  \item S.~Banerjee, V.~H. Nagaraja, I.~Nyalala, and N.~P. Bhatt. Prime directives for responsible ai for africa: A manifesto for inclusive technology. In {\em Data Science Africa 2025 Workshop}, 2025.
+  \item S.~Banerjee. Understanding intelligence across humans, machines, and animals. In {\em Workshop on Exploring Interdisciplinary Frontiers: Cognitive Science, Computational Modeling, and Artificial Intelligence}, 2025.
+  \item S.~Banerjee. Towards a theory of life-like systems. In {\em IEEE Symposium on Computational Intelligence in Artificial Life and Cooperative Intelligent Systems (Late Breaking Abstract)}, Trondheim, Norway, 2025.
+  \item S.~Banerjee. Augmenting human intelligence on abstraction and reasoning tasks: a path synergistic ai-human interaction for the abstraction and reasoning corpus. In {\em IEEE Symposium on Computational Intelligence in Artificial Life and Cooperative Intelligent Systems (Late Breaking Abstract)}, Trondheim, Norway, 2025.
+  \item N.~Diamond and S.~Banerjee. ``i apologize for my actions'': Emergent properties of generative agents and implications for a theory of mind. In {\em AAAI Workshop on Advancing Artificial Intelligence through Theory of Mind (ToM4AI)}, 2025.
+  \item J.~Miller and S.~Banerjee. The {BACON} system for equation discovery from scientific data: Reconciling classical artificial intelligence with modern machine learning approaches. In {\em 4th Annual AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE)}, 2025.
+  \item S.~Banerjee. Enhancing ai capabilities on the abstraction and reasoning corpus: A path toward broad generalization in intelligence. In {\em 4th Annual AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE)}, 2025.
+  \item K.~Bikov, M.~Bober-Irizar, and S.~Banerjee. {AugARC}: Augmented abstraction and reasoning benchmark for large language models. In {\em AAAI Workshop on Preparing Good Data for Generative AI: Challenges and Approaches}, 2025.
+  \item S.~Banerjee. Ai and the future of the technosphere: A path towards co-existence with superintelligence. In {\em AAAI Workshop on Post-Singularity Symbiosis}, 2025.
+  \item K.~Bikov, M.~Bober-Irizar, and S.~Banerjee. {MASR}: Multi-agent system with reflection for the abstraction and reasoning corpus. In {\em AAAI 2025 Workshop on Advancing LLM-Based Multi-Agent Collaboration}, 2025.
+  \item A.~Mazumdar, N.~Karim, and S.~Banerjee. What can machines teach us in our journey of reproducing human scientific creativity? In {\em IEEE Symposium on Computational Intelligence in Artificial Life and Cooperative Intelligent Systems (Late Breaking Abstract)}, Trondheim, Norway, 2025.
+  \item K.~Bikov, M.~Bober-Irizar, and S.~Banerjee. Reflection system for the abstraction and reasoning corpus. In {\em AAAI 2nd AI4Research Workshop: Towards a Knowledge-grounded Scientific Research Lifecycle}, 2025.
+  \item N.~Diamond and S.~Banerjee. On the ethical considerations of generative agents. In {\em NeurIPS Workshop on Socially Responsible Language Modelling Research (SoLaR)}, 2024.
+  \item M.~Bober-Irizar and S.~Banerjee. Neural networks for abstraction and reasoning. In {\em NeurIPS Workshop on Multimodal Algorithmic Reasoning (MAR)}, 2024. Selected for oral presentation.
+  \item S.~Olowu, N.~Lawrence, and S.~Banerjee. Enhancing patient stratification and interpretability through class-contrastive and feature attribution techniques. In {\em NeurIPS Workshop on Interpretable AI: Past, Present and Future}, 2024.
+  \item S.~Banerjee. Building trustworthy ai: The role of patient and public involvement in healthcare ai development. In {\em Proceedings of the AAAI Symposium Series}, volume~4, pages 329--331, 2024.
+  \item J.~Miller and S.~Banerjee. The {BACON} system for equation discovery from scientific data: Transforming classical artificial intelligence with modern machine learning approaches. In {\em AAAI Fall Symposium Series, Integrated Approaches to Computational Scientific Discovery}, 2024.
+\end{enumerate}
+
+\subsection*{Refereed Conference Papers}
+\begin{enumerate}
+  \item S.~Banerjee et~al. Evaluating machine learning models for prediction of attention deficit hyperactivity disorder among autistic individuals using genetic data. In {\em World Congress of Psychiatric Genetics}, 2025.
+  \item S.~Banerjee. Cosmicism and artificial intelligence: Beyond human-centric ai. In {\em 1st International Online Conference of the Journal Philosophies}, 2025.
+  \item S.~Banerjee. When planes fly better than birds: Should ais think like humans? In {\em 1st International Online Conference of the Journal Philosophies}, 2025. Best poster award.
+  \item S.~Olowu, N.~Lawrence, and S.~Banerjee. Enhancing patient stratification and interpretability through class-contrastive and feature attribution techniques. In {\em Proceedings of the 2025 IEEE Symposium Series on Computational Intelligence}, Trondheim, Norway, 2025.
+  \item N.~Diamond and S.~Banerjee. ``i apologize for my actions'': Emergent properties of generative agents and implications for a theory of mind. In {\em Proceedings of the 2025 IEEE Symposium Series on Computational Intelligence}, Trondheim, Norway, 2025.
+  \item S.~Banerjee. Analysis of a planetary scale scientific collaboration dataset reveals novel patterns. In {\em Proceedings of the Complex Systems Digital Campus 2015 -- World e-Conference, Conference on Complex Systems}, 2016.
+  \item S.~Banerjee and J.~Hecker. A multi-agent system approach to load-balancing and resource allocation for distributed computing. In {\em Proceedings of the Complex Systems Digital Campus 2015 -- World e-Conference, Conference on Complex Systems}, 2016.
+  \item S.~Banerjee et~al. Computationally simulating intermodal terminal attractiveness and demand. In {\em Proceedings of the 23rd World Congress on Intelligent Transport Systems}, 2016.
+  \item R.~Garcia-Flores, S.~Banerjee, et~al. Analysis of demand and operations of intermodal terminals. In {\em Proceedings of the 24th National Conference of the Australian Society for Operations Research}, 2016.
+  \item Y.~Tyshetskiy, S.~Banerjee, et~al. Forecasting in the era of big data: Lessons and pitfalls. In {\em Proceedings of the Annual Conference of the International Association of Maritime Economists}, 2016.
+  \item S.~Banerjee, D.~Levin, M.~Moses, F.~Koster, and S.~Forrest. The value of inflammatory signals in adaptive immune responses. In {\em The 10th International Conference on Artificial Immune Systems (ICARIS)}, volume 6825 of {\em Lecture Notes in Computer Science}, pages 1--14, 2011.
+  \item M.~Moses and S.~Banerjee. Biologically inspired design principles for scalable, robust, adaptive, decentralized search and automated response (radar). In {\em Proceedings of the 2011 IEEE Conference on Artificial Life}, pages 30--37, 2011.
+  \item S.~Banerjee and M.~Moses. Modular radar: An immune system inspired search and response strategy for distributed systems. In {\em The 9th International Conference on Artificial Immune Systems (ICARIS)}, volume 6209 of {\em Lecture Notes in Computer Science}, pages 116--129, 2010.
+  \item S.~Banerjee and M.~Moses. A hybrid agent based and differential equation model of body size effects on pathogen replication and immune system response. In {\em The 8th International Conference on Artificial Immune Systems (ICARIS)}, volume 5666-014, 2009.
+\end{enumerate}
+
+\subsection*{Book Chapters}
+\begin{enumerate}
+  \item R.~Garcia-Flores, S.~Banerjee, and G.~Mathews. Using optimisation and machine learning to validate the value of infrastructure investments. In {\em Infrastructure Investments: Politics, Barriers and Economic Consequences}. 2016.
+\end{enumerate}
+
+% ============================================================
+% HONOURS AND AWARDS
+% ============================================================
+\section*{Honours and Awards}
+\begin{enumerate}
+  \item 2010 Student Award for Innovation in Informatics (awarded to a University of New Mexico graduate or undergraduate student for the best paper describing innovation or research in biomedical informatics)
+  \item Distinction and 5th rank in Nagpur University (out of 2000 examinees) in the Bachelor of Engineering programme
+  \item Best poster award at the 1st International Online Conference of the Journal \textit{Philosophies}, 2025
+\end{enumerate}
+
+% ============================================================
+% GRANTS
+% ============================================================
+\section*{Grants}
+\begin{enumerate}
+  \item Grant from OpenAI Researcher Access Program for API credits (April 2024): 3000 US dollars
+  \item Co-investigator on two pilot grants from the AI@CAM initiative at the University of Cambridge (February 2024): 150,000 pounds
+  \item Grants under review: Co-investigator on MRC New Investigator Grant (May 2025)
+\end{enumerate}
+
+% ============================================================
+% INVITED TALKS
+% ============================================================
+\section*{Invited Talks}
+\begin{enumerate}
+  \item Responsible AI and involving patients in AI model building, Nokia Bell Labs, Cambridge, February 2025
+  \item Talk at UK--India Cooperation Towards a Fair AI Horizon, December 2024
+  \item Keynote presentation, Physics of Self-Organization in Complex Systems Satellite meeting, Conference on Complex Systems, Exeter, UK, September 2024
+  \item Computational Immunology, Microsoft Research, Cambridge, UK, March 2017
+  \item Modeling Emerging Pathogens under Uncertainty and Sparse Experimental Data, Harvard Medical School, Boston, USA, September 2014
+  \item Modeling Emerging Pathogens under Uncertainty and Sparse Experimental Data, IBM Research, India, August 2014
+  \item Computational Screens for Novel Gut Microbial Bioactive Compounds, Novartis Institutes for Biomedical Research, Boston, USA, July 2014
+  \item Scaling in the Immune System, Commonwealth Scientific and Industrial Research Organisation, Australia, March 2013
+  \item A Mathematical Model of Body Size Effects on Pathogen Replication and Immune System Response, International Network of Theoretical Immunology, Los Alamos National Laboratories, USA, August 2010
+  \item A Hybrid Agent Based and Differential Equation Model of Body Size Effects on Pathogen Replication and Immune System Response, School of Health Sciences, University of New Mexico, USA, April 2010
+\end{enumerate}
+
+% ============================================================
+% SUPERVISIONS
+% ============================================================
+\section*{Supervisions}
+Supervised 17 MPhil (postgraduate) students and 3 summer interns. Co-supervised 1 PhD student.
+
+% ============================================================
+% ACADEMIC SERVICE
+% ============================================================
+\section*{Academic Service}
+\begin{enumerate}
+  \item Program committee member of ICLR Workshop HCAIR 2026
+  \item Served on recruitment panels for recruiting PhD and MPhil/MSc students
+  \item Program committee member of International Conference on Artificial Immune Systems
+  \item Program committee member for ECML-PKDD Workshop on Hybrid Human-Machine Learning and Decision Making, 2023
+  \item Review Editor for \textit{Frontiers in Virology}
+  \item Reviewer for \textit{IEEE Transactions on Systems, Man, and Cybernetics} and \textit{IEEE Transactions on Emerging Topics in Computational Intelligence}, AAAI workshop NeurMAD
+  \item Reviewer for SIMIODE (Systemic Initiative for Modeling Investigations and Opportunities with Differential Equations)
+\end{enumerate}
+
+% ============================================================
+% COMPUTER LANGUAGES
+% ============================================================
+\section*{Computer Languages}
+\begin{enumerate}
+  \item Programming --- Python, R, MATLAB, UNIX shell scripting, C, C++, Perl, ASP.NET, Haskell
+  \item Databases --- MS SQL Server, Sybase
+  \item Image analysis and automated cell tracking tools --- ImageJ, CellProfiler
+  \item Distinctions --- Ranked within the Top 250 worldwide as an open-source code contributor in the MATLAB Central code repository: \url{https://sites.google.com/site/neelsoumya/software}
+  \item R packages authored: \url{https://github.com/neelsoumya/dsSurvival}
+\end{enumerate}
+
+% ============================================================
+% ATTENDED WORKSHOPS AND SHORT COURSES
+% ============================================================
+\section*{Attended Workshops and Short Courses}
+\begin{enumerate}
+  \item Advancing Educational Practice Programme (AEPP), University of Cambridge, Sept 2023 -- June 2024 (led to a Fellowship of the Higher Education Academy)
+  \item AI Safety Policy Fellowship, Cambridge AI Safety Hub, October 2023
+  \item Summer School on Data Science, Northwestern University, April 2020
+  \item Workshop on Spatial Statistics, Harvard University, July 2014
+  \item Santa Fe Institute Complex Systems Summer School, June 2--27, 2008
+  \item 3rd Annual Summer School in Computational Immunology, Yale University, August 11--16, 2008
+  \item Gordon Research Conference in Metabolic Basis of Ecology, Maine, July 2008
+  \item Scaling in Biological and Social Networks Workshop, Santa Fe Institute, July 2007
+\end{enumerate}
+
+% ============================================================
+% CONSULTANCY AND REQUEST FOR EXPERTISE
+% ============================================================
+\section*{Consultancy and Requests for Expertise}
+\begin{enumerate}
+  \item James Templeton Foundation, 2025
+  \item American University of Dubai, 2026
+\end{enumerate}
+
+\end{document}
